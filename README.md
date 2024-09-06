@@ -37,9 +37,7 @@ To Run the reqiurement.txt file
 Dataset Link : https://drive.google.com/file/d/19WP1Z0vazKLlHt5fp01wsnMHztLkMxx6/view?usp=sharing
 ## Technologies Used
 
-Here’s a list of technologies you can include in your README file for the phishing classification machine learning project:
 
----
 
 ### Technologies Used
 
