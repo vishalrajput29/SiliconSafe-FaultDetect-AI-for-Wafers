@@ -1,5 +1,5 @@
 
-# Wafer Fault Detection Using Machine Learning
+# SiliconSafe: FaultDetect AI for Wafers
 
 The Wafer Fault Detection project is focused on identifying faults in semiconductor wafers used in manufacturing. Utilizing machine learning, the project aims to classify wafers as either faulty or non-faulty based on sensor data collected during the manufacturing process. The project involves several key steps, including data preprocessing to clean and normalize the data, feature engineering to extract significant features, and the development and evaluation of various machine learning models such as Logistic Regression, SVM, Random Forest, and XGBoost. The best-performing model is deployed in a production environment to provide real-time fault detection, significantly improving quality control in the wafer manufacturing process.
 ## Author
